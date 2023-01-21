@@ -1,0 +1,25 @@
+/* 
+
+a. Background color
+b. Text color
+c. Font family
+d. Font size
+e. Borders
+f. Rounded corners on images
+
+ */
+
+ html {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ h1, h2, h3, h4, h5, h6 {
+    font-size: x-large;
+ }
+
+ img {
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+ }
